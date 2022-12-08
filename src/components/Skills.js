@@ -6,6 +6,7 @@ import skill5 from "../assets/img/unity.jpg";
 import skill6 from "../assets/img/React.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
+import "animate.css";
 
 export const Skills = () => {
   const responsive = {

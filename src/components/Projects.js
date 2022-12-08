@@ -4,6 +4,7 @@ import projImg1 from "../assets/img/VitaE.png";
 import projImg2 from "../assets/img/TheyPileUp.png";
 import projImg3 from "../assets/img/wordpress.png";
 import TrackVisibility from "react-on-screen";
+import "animate.css";
 
 export const Projects = () => {
   const projects = [
